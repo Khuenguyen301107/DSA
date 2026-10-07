@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "DSA_6c96c56b"
+        },
+        {
+            "type": "java",
             "name": "Lab01",
             "request": "launch",
             "mainClass": "Lab01",
